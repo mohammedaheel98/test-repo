@@ -13,3 +13,4 @@ echo "rebaseexample"
 
 echo "mergebranch"
 
+echo "mergebranch-1"
