@@ -1,7 +1,7 @@
 #!/bin/bash
-x=1
+x=10
 y=2
-add=`expr $x + $y`
+add=:`expr $x + $y`
 sub=`expr $x - $y`
 echo "Subraction: $sub"
 echo "Addition: $add"
