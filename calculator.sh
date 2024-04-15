@@ -6,4 +6,4 @@ sub=`expr $x - $y`
 echo "Subraction: $sub"
 echo "Addition: $add"
 
-echo "mergebranch"
+echo "mergebranch-1"
