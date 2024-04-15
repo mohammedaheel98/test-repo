@@ -8,4 +8,8 @@ echo "Subraction: $sub"
 echo "Addition: $add"
 echo "Division: $div"
 
+
 echo "rebaseexample"
+
+echo "mergebranch"
+
